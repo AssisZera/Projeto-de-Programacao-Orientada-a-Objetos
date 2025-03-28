@@ -6,21 +6,14 @@ Este repositório contém dois programas em Java que fazem parte de um sistema d
 
 1️⃣ Cadastro de Empresas (atividade1.programaEmpresa) <br>
 
-✔ Permite o registro de empresas solicitando: <br>
-  ✔ Nome da empresa <br>
-  ✔ CNPJ <br>
-  ✔ Renda bruta mensal <br>
+✔ Permite o registro de empresas solicitando: Nome da empresa, CNPJ e Renda bruta mensal <br>
 ✔ Possibilidade de cadastrar múltiplas empresas em sequência. <br>
 ✔ Finaliza a execução quando o usuário escolhe não cadastrar mais empresas. <br>
 
 2️⃣ Sistema de Concessionária (atividade2.programaConcessionaria) <br>
 
 ✔ Exige autenticação do usuário com senha. <br>
-✔ Menu de opções: <br>
-  ✔ Cadastro de cliente <br>
-  ✔ Compra de carro (modelos Fiat Argo, Pulse e Toro, com escolha de cor e forma de pagamento) <br>
-  ✔ Compra de acessório (nome e quantidade do acessório) <br>
-  ✔ Sair do programa <br>
+✔ Menu de opções (switch): Cadastro de cliente, compra de carro, compra de acessório e sair do programa <br>
 
 🛠 Tecnologias Utilizadas <br>
 
